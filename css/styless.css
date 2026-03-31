@@ -1,0 +1,82 @@
+/* GLOBAL */
+body {
+  font-family: 'Montserrat', sans-serif;
+  background: #f5f7fb;
+  color: #0f172a;
+}
+
+section {
+  padding: 90px 0;
+}
+
+/* HERO */
+.hero-img {
+  background: linear-gradient(135deg, #0b0f1a, #111827);
+}
+
+.hero {
+  padding: 100px 0;
+}
+
+.hero h1 {
+  font-size: 100px;
+  font-weight: 800;
+  color: #fff;
+}
+
+.sub {
+  color: #ccc;
+  max-width: 500px;
+}
+
+/* NAV */
+.logo-img {
+  height: 50px;
+}
+
+/* ABOUT */
+.title {
+  font-size: 40px;
+  font-weight: 700;
+}
+
+.desc {
+  color: #64748b;
+}
+
+/* CARD */
+.card {
+  border-radius: 20px;
+  border: none;
+  box-shadow: 0 8px 25px rgba(0,0,0,0.05);
+  transition: 0.3s;
+}
+
+.card:hover {
+  transform: translateY(-8px);
+}
+
+/* STATS */
+.stat-card h1 {
+  font-size: 45px;
+  font-weight: 700;
+}
+
+/* TESTIMONIAL */
+.testimonial-section {
+  background: #f8fafc;
+}
+
+.quote-text {
+  font-size: 18px;
+  color: #475569;
+}
+
+.stars {
+  color: #f59e0b;
+}
+
+/* BIG CARD */
+.big-card {
+  border-radius: 20px;
+}
